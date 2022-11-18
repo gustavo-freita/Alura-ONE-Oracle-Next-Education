@@ -1,0 +1,8 @@
+console.log("Trabalahdno com variáveis");
+//JS é case sensitive
+
+const idade = 29;
+const nome = "Ricardo";
+
+//não fazer
+//mes = "janeiro";
