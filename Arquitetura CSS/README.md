@@ -8,7 +8,7 @@
 Releitura do site desenvolvido durante os cursos de **HTML5 e CSS3** da ALURA.  Projeto construído para fins didáticos, com o objetivo de colocar em prática os conhecimentos de HTML e CSS.
 
 <p align="center">
- 
+  <img width="80%" src="arquitetura.gif">
 </p>
 
 <h2 align="center"> Propostas do curso</h2
