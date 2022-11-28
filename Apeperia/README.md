@@ -13,12 +13,12 @@ Releitura do site desenvolvido durante os cursos de **HTML5 e CSS3** da ALURA.  
 
 <h2 align="center"> Propostas do curso</h2
 
-* Simplificando a 'criação de layouts complexos'.
-* 'Posicionamento' elementos com mais 'facilidade'.
+* Simplificando a `criação de layouts complexos`.
+* `Posicionamento` elementos com mais `facilidade`.
 * Utilizando grid para calcular e alinhar elementos.
-* Criando templates com mais 'eficiência e simplicidade'.
-* Falando para os elementos onde eles 'devem se posicionar'.
-* Falando para os elementos onde eles devem 'começar e terminar'.
+* Criando templates com mais `eficiência e simplicidade`.
+* Falando para os elementos onde eles `devem se posicionar`.
+* Falando para os elementos onde eles devem `começar e terminar`.
 
 <h3 align="center">👩🏽‍💻 Tecnologias Utilizadas</h3>   
 
